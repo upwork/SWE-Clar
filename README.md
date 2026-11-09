@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img alt="Paper" src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg"></a>
+  <a href="https://arxiv.org/abs/2610.31854"><img alt="Paper" src="https://img.shields.io/badge/arXiv-2610.31854-b31b1b.svg"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.12+-1f425f.svg?color=purple"></a>
   <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-20.6+-339933.svg?logo=node.js&logoColor=white"></a>
@@ -188,7 +188,8 @@ Released under the [MIT License](LICENSE).
 @article{li2026sweclar,
   title   = {{SWE-Clar}: Can Coding Agents Clarify Incomplete Client Requirements and Deliver Greenfield Software?},
   author  = {Li, Jialei and Wang, Dingxian and Zhao, Xiaoyan and Bai, Yimeng and Zhu, Xuanyi and Zhang, Yang and Yin, Chao and Shi, Wentao and Prabhu, Ganesh and Rajagopal, Karthik Gomadam and Levert, Brett and Yi, Darvin and Rabinovich, Andrew and Chen, Zhao},
-  journal = {arXiv preprint},
-  year    = {2026}
+  journal = {arXiv preprint arXiv:2610.31854},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2610.31854}
 }
 ```
